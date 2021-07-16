@@ -1,6 +1,6 @@
 # OC_2021_project
 
-Python Machine Learning  
+The training of the Python Machine Learning  
 
 ## Project Management Platform
 ![image](https://user-images.githubusercontent.com/54256479/125876104-d2e76833-94a4-4420-9058-47f29a110386.png)
