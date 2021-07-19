@@ -13,4 +13,4 @@ https://ersl.atlassian.net/jira/software/projects/OC/boards/2
 2. 以時間判斷出「春」、「夏」、「秋」、「冬」4個種類形成label資料
 ## label想法2
 1. 以有值格點形成的數值向量做為每一筆feature 資料
-2. 以Julia形成label資料
+2. 以Julian day形成label資料
