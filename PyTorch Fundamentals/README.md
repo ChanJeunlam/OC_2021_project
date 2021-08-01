@@ -5,7 +5,8 @@ https://ersl.atlassian.net/jira/software/projects/OC/boards/2?selectedIssue=OC-1
 ## Only need to complete  [Learn the Basics — PyTorch Tutorials 1.9.0+cu102 documentation](https://pytorch.org/tutorials/beginner/basics/intro.html) 
 1. https://pytorch.org/tutorials/beginner/basics/intro.html  
 2. https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html  
-3. 
+3. https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+4. 
 When implementing this project, we can learn from examples in the tutorials. (For example, Recurrent neural network and convolutional neural networks)
 
 Remember, our goal is to implement/validate with models quickly and correctly.
