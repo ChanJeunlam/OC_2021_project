@@ -8,7 +8,9 @@ https://ersl.atlassian.net/jira/software/projects/OC/boards/2?selectedIssue=OC-1
 3. https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 4. https://pytorch.org/tutorials/beginner/basics/transforms_tutorial.html
 5. https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
-6. 
+6. https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
+7. https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html
+8. 
 When implementing this project, we can learn from examples in the tutorials. (For example, Recurrent neural network and convolutional neural networks)
 
 Remember, our goal is to implement/validate with models quickly and correctly.
