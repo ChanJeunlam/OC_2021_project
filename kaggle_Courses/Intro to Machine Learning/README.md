@@ -5,4 +5,5 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 3. Your First Machine Learning Model : exercise_your_first_machine_learning_model.ipynb
 4. Model Validation : notebookddbf23a11b.ipynb
 5. Underfitting and Overfitting : exercise_underfitting_and_overfitting.ipynb
-6. Random Forests : 
+6. Random Forests : exercise-random-forests.ipynb
+7. Machine Learning Competitions : 
