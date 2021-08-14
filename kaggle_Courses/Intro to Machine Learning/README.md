@@ -7,4 +7,4 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 5. Underfitting and Overfitting : exercise_underfitting_and_overfitting.ipynb
 6. Random Forests : exercise-random-forests.ipynb
 7. Machine Learning Competitions : exercise_machine_learning_competitions.ipynb
-8. Bonus
+8. Bonus : Intro to AutoML https://www.kaggle.com/alexisbcook/intro-to-automl
