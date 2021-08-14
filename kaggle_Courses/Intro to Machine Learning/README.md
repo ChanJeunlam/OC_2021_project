@@ -6,5 +6,5 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 4. Model Validation : notebookddbf23a11b.ipynb
 5. Underfitting and Overfitting : exercise_underfitting_and_overfitting.ipynb
 6. Random Forests : exercise-random-forests.ipynb
-7. Machine Learning Competitions : 
+7. Machine Learning Competitions : Choujing Studying-Abroad Consulting Co. Ltd. - STN11847A
 8. Bonus
